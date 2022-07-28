@@ -20,3 +20,7 @@
 .text-gray{
     color: #5d5d5d;
 }
+
+.filter-img{
+    filter: brightness(60%);
+}
