@@ -14,7 +14,11 @@
 }
 
 .big-bottom{
-    margin-bottom: 5rem;
+    margin-bottom: 3rem;
+}
+
+.big-margin{
+    margin-top: 100px;
 }
 
 .text-gray{
@@ -22,5 +26,5 @@
 }
 
 .filter-img{
-    filter: brightness(60%);
+    filter: brightness(50%);
 }
