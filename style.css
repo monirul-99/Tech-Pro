@@ -35,3 +35,15 @@
     border-radius: 100%;
     background-color: slategray;
 }
+
+.explore-bg{
+    background-color: #F4FAFD;
+}
+
+.marginLeft{
+    margin-left: -30px;
+}
+
+.paddingTop{
+    padding-top: 1rem;
+}
